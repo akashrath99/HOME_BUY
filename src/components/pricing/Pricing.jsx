@@ -1,6 +1,6 @@
 import React from 'react'
 import Back from '../common/Back'
-import img from '../image/Pricing.jpg'
+import img from '../image/pricing.jpg'
 import PriceCard from '../home/price/PriceCard'
 
 const Pricing = () => {
