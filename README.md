@@ -1,8 +1,41 @@
-# React + Vite
+# HOME_BUY 🏠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Real Estate Website built using React JS and Vite.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://home-buy-azure.vercel.app
+
+## 📌 Features
+
+* Responsive Design
+* Property Listings
+* Modern User Interface
+* Mobile Friendly Layout
+* Fast Performance
+* Clean Navigation
+
+## 🛠️ Tech Stack
+
+* React JS
+* Vite
+* JavaScript
+* CSS3
+* HTML5
+
+## 🚀 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## 📷 Project Preview
+
+Visit the live website:
+
+https://home-buy-azure.vercel.app
+
+## 👨‍💻 Author
+
+Akash Rath
